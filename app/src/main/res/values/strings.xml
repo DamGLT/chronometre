@@ -1,0 +1,9 @@
+<resources>
+    <string name="name">chronometre</string>
+        <string name="action_settings">Settings</string>
+        <string name="start">Start</string>
+        <string name="stop">Stop</string>
+        <string name="reset">Reset</string>
+        <string name="fast">Fast t</string>
+
+</resources>
